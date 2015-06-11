@@ -2,7 +2,7 @@ package org.wso2.carbon.tenant.mgt.sample;
 
 
 /**
- * Created by aruna on 5/21/15.
+ * Created by aruna.
  */
 public class Main {
 

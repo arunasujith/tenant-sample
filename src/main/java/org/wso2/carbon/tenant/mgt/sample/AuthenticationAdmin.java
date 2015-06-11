@@ -6,7 +6,7 @@ import org.apache.axis2.context.ServiceContext;
 
 
 /**
- * Created by aruna on 6/10/15.
+ * Created by aruna
  */
 public class AuthenticationAdmin {
     private static final String AS_URL = "https://localhost:9443/services/";

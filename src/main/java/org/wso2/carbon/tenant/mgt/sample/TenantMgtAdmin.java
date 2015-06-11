@@ -5,7 +5,7 @@ import org.wso2.carbon.tenant.mgt.stub.TenantMgtAdminServiceStub;
 import org.wso2.carbon.tenant.mgt.stub.beans.xsd.TenantInfoBean;
 
 /**
- * Created by aruna on 6/10/15.
+ * Created by aruna.
  */
 public class TenantMgtAdmin {
     private static final String AS_URL = "https://localhost:9443/services/";
