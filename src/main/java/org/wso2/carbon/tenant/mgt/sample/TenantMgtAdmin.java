@@ -22,7 +22,7 @@ public class TenantMgtAdmin {
 
         String value = tenantMgtStub.addTenant(getTenantBean());
 
-        System.out.println("Value ::" + value);
+        System.out.println("Returned Value ::" + value);
     }
 
     private static TenantInfoBean getTenantBean() {

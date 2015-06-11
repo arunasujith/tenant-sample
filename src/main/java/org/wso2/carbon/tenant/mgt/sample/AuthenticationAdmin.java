@@ -21,8 +21,6 @@ public class AuthenticationAdmin {
             if (loginSuccess) {
                 ServiceContext serviceContext = authAdminStub._getServiceClient().getLastOperationContext().getServiceContext();
                 cookie = (String) serviceContext.getProperty(HTTPConstants.COOKIE_STRING);
-            } else {
-                System.out.println("Failed");
             }
         } catch (Exception ex) {
             ex.printStackTrace();
