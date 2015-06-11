@@ -1,2 +1,2 @@
 # tenant-sample
-Sample which Admin Services to Add tenants
+Sample to demonstrate on how to use Admin Services to Add tenants
